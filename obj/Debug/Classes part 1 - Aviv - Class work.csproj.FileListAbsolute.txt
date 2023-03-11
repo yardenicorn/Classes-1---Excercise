@@ -1,3 +1,8 @@
 C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\obj\Debug\Classes part 1 - Aviv - Class work.csproj.AssemblyReference.cache
 C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\obj\Debug\Classes part 1 - Aviv - Class work.csproj.SuggestedBindingRedirects.cache
 C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\obj\Debug\Classes part 1 - Aviv - Class work.csproj.CoreCompileInputs.cache
+C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\bin\Debug\Classes part 1 - Aviv - Class work.exe.config
+C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\bin\Debug\Classes part 1 - Aviv - Class work.exe
+C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\bin\Debug\Classes part 1 - Aviv - Class work.pdb
+C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\obj\Debug\Classes part 1 - Aviv - Class work.exe
+C:\Users\yarde\source\repos\Classes part 1 - Aviv - Class work\obj\Debug\Classes part 1 - Aviv - Class work.pdb
