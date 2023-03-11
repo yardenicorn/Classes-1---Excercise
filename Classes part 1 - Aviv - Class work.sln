@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes part 1 - Aviv - Class work", "Classes part 1 - Aviv - Class work.csproj", "{CEDBC8DB-3D14-45C4-85E4-9D4A76082EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDBC8DB-3D14-45C4-85E4-9D4A76082EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDBC8DB-3D14-45C4-85E4-9D4A76082EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDBC8DB-3D14-45C4-85E4-9D4A76082EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDBC8DB-3D14-45C4-85E4-9D4A76082EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383F44CB-AC16-4FB9-B868-AE77478091F2}
+	EndGlobalSection
+EndGlobal
